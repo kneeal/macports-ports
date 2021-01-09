@@ -4,7 +4,7 @@ PortSystem          1.0
 PortGroup           python 1.0
 
 name                py-control
-version             0.8.3
+version             0.8.4
 revision            0
 
 categories-append   science
@@ -24,7 +24,7 @@ checksums           rmd160  b5739feb6a43755bdd889c87c42dd31f95edbc3a \
                     sha256  1fcfdcf39f96523cb1f2cf7bf7b8ae68ec3ef8350e5c55e17e02afdb0872edbb \
                     size    249610
 
-python.versions     27 35 36 37 38
+python.versions     27 35 36 37 38 39
 
 if {${name} ne ${subport}} {
     depends_build-append \
