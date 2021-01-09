@@ -20,9 +20,9 @@ long_description    \
 
 homepage            https://python-control.readthedocs.io
 
-checksums           rmd160  b5739feb6a43755bdd889c87c42dd31f95edbc3a \
-                    sha256  1fcfdcf39f96523cb1f2cf7bf7b8ae68ec3ef8350e5c55e17e02afdb0872edbb \
-                    size    249610
+checksums           rmd160  8bf5cfe280e1c1bc9b8fc53a8b86edd0a91137f7 \
+                    sha256  fed8ca6c773175bea14b121c001eee20c48977629a498d9a2d19a85490112ba5 \
+                    size    261825
 
 python.versions     27 35 36 37 38 39
 
